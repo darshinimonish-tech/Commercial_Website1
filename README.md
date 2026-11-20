@@ -245,6 +245,7 @@ footer {
 
 ## OUTPUT
 
-"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-11-20 152204.png"
+<img width="1885" height="1012" alt="Screenshot 2026-11-20 152204" src="https://github.com/user-attachments/assets/fcbe0251-5413-4364-9d2b-6c74c5d12b07" />
+
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
